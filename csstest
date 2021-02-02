@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Homepage</title>
+    </head>
+    <body>
+        <a href="owenconnor24.github.io/index.html"><img src="csc106_banner.jpg" alt="CSC 106 The Joy of Programming"></a>
+      <h1>Hello World</h1>
+<table>
+    <thead>
+              <tr>
+            <th><a href="https://owenconnor24.github.io/index.html"><img src="homebutton.png" alt="Home"></a></th>
+            <th><a href="https://owenconnor24.github.io/javascripts.html"><img src="javabutton.png" alt="Javascript"></a></th>
+            <th><a href="https://owenconnor24.github.io/about.html"><img src="aboutbutton.png" alt="About"></a></th>
+        </tr>
+    </thead>
+        </table>
+        <p> My Name is Owen Connor, and I am a freshman student at the University of Rhode Island.<br>
+            I am taking this course to decide wether or not I want to double major in computer science.<br>
+            This website will be my portfolio to my experiments and assiments in CSC 106.<br></p>
+    </body>
+</html>
