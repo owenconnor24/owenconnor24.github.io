@@ -20,33 +20,35 @@ h1 {
 
 #aboutFooter {
   
-  margin-top:500px;
-  width: 400px;
-  height:150px;
+  margin-top:50px;
+  width: 650px;
+  height:305px;
   
   
 }
 
 #footerIMG1 {
-    width: 400px;
-  height:150px;
-  filter: invert(100%);
+    width: 200x;
+    height:300px;
+    float:left;
+    filter: invert(100%);
 }
   
  #footerIMG2 {
-    width: 400px;
-  height:150px;
+    width: 200px;
+    height:300px;
+   float:right;
   filter: invert(100%);
   }
   
   #footerIMG3 {
-    width: 400px;
-  height:150px;
+    width:100px;
+    height:130px;
   
    }
     
     #footerIMG4 {
-    width: 400px;
-  height:150px;
+    width: 130px;
+    height:130px;
 }
 
