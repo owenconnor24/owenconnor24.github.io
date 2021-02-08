@@ -1,11 +1,30 @@
 body {
+  
 background-color: rgb(0, 0, 0);
-background-image: url("myBackground.jpg");
+  
+  background-image: url("myBackground.jpg");
+  
 }
+
 p {
-color: rgb(196, 0, 255);
+  
+  color: rgb(196, 0, 255);
+  
 }
+
 h1 {
-color: rgb(162, 0, 255);
+  
+  color: rgb(162, 0, 255);
+  
 }
+
+#aboutFooter {
+  
+  margin-top:500px;
+  width: 400px;
+  height:150px;
+  
+  
+}
+
 
